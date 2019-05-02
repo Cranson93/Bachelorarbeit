@@ -1,0 +1,15 @@
+{
+  "app_key": "application.generated.unity.bachelorarbeit.exe",
+  "bindings": {
+    "/actions/newset": {
+      "chords": [],
+      "poses": [],
+      "haptics": [],
+      "sources": [],
+      "skeleton": []
+    }
+  },
+  "controller_type": "vive_controller",
+  "description": "",
+  "name": "Meine Bachelorarbeit"
+}

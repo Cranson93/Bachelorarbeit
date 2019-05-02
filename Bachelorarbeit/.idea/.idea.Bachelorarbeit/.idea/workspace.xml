@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ScriptableObjects.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Editor/SteamVR_AutoEnableVR.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Editor/SteamVR_AutoEnableVR.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_ForceSteamVRMode.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_ForceSteamVRMode.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_ForceSteamVRMode.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_ForceSteamVRMode.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_ForceSteamVRMode.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_ForceSteamVRMode.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_LaserPointer.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_LaserPointer.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_LaserPointer.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Extras/SteamVR_LaserPointer.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_BooleanEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_BooleanEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_PoseEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_PoseEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Pose_ConnectedChangedEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Pose_ConnectedChangedEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Pose_DeviceIndexChangedEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Pose_DeviceIndexChangedEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Pose_TrackingChangedEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Pose_TrackingChangedEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_SingleEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_SingleEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_SkeletonEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_SkeletonEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Skeleton_ConnectedChangedEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Skeleton_ConnectedChangedEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Skeleton_TrackingChangedEvent.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Skeleton_TrackingChangedEvent.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Vector2Event.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Vector2Event.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Vector3Event.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/BehaviourUnityEvents/SteamVR_Behaviour_Vector3Event.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Input/Editor/SteamVR_Input_ActionManifest_Manager.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Input/Editor/SteamVR_Input_ActionManifest_Manager.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Prefabs/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Prefabs/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Prefabs/Arrow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Longbow/Prefabs/Arrow.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/CubePose small.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/CubePose small.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/HappyBallPose.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/HappyBallPose.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/HappyBallPoseSqueezed.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Poses/HappyBallPoseSqueezed.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Materials/PController.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/JoeJeff/Materials/PController.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/Prefabs/Buggy Controller.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/Prefabs/Buggy Controller.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/Prefabs/JoeJeffController.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Samples/Prefabs/JoeJeffController.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportDestination.fbx" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Models/TeleportDestination.fbx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Prefabs/Teleporting.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Prefabs/Teleporting.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/[CameraRig].prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/[CameraRig].prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_glove_left.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_glove_left.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_glove_left_model_slim.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_glove_left_model_slim.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_glove_right.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_glove_right.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_glove_right_model_slim.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_glove_right_model_slim.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_hand_alien_left.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_hand_alien_left.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_hand_alien_right.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_hand_alien_right.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_hand_floppy_left.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_hand_floppy_left.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_hand_floppy_right.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/Prefabs/vr_hand_floppy_right.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/diffuse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/diffuse.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/normal_specular.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/normal_specular.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/shadow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/shadow.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/translucency_gloss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tree_Textures/translucency_gloss.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Boolean.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1105">
+              <caret line="79" selection-start-line="79" selection-end-line="79" />
+              <folding>
+                <marker date="1556778136866" expanded="false" signature="87:227" ph="..." />
+                <marker date="1556778136866" expanded="true" signature="247:24955" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="273:472" ph="/* Boolean actions are either true or false. There are a variety of helper events included that will fire for th ... */" />
+                <marker date="1556778136866" expanded="true" signature="655:15643" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="1603:1746" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="1928:2071" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="2273:2414" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="2669:2818" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="3069:3214" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="3440:3595" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="3804:3973" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="5553:5812" ph="///Returns true if the value of the action has been changed to true (from false) in the most recent update. ... " />
+                <marker date="1556778136866" expanded="true" signature="5880:5953" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="5963:6222" ph="///Returns true if the value of the action has been changed to false (from true) in the most recent update. ... " />
+                <marker date="1556778136866" expanded="true" signature="6288:6359" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="6369:6589" ph="///Returns true if the value of the action (state) is currently true ... " />
+                <marker date="1556778136866" expanded="true" signature="6653:6722" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="6732:6987" ph="///[For the previous update] Returns true if the value of the action has been set to true (from false). ... " />
+                <marker date="1556778136866" expanded="true" signature="7059:7136" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="7146:7401" ph="///[For the previous update] Returns true if the value of the action has been set to false (from true). ... " />
+                <marker date="1556778136866" expanded="true" signature="7471:7546" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="7556:7786" ph="///[For the previous update] Returns true if the value of the action was true. ... " />
+                <marker date="1556778136866" expanded="true" signature="7854:7927" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="7937:8464" ph="///Executes a function when the *functional* active state of this action (with the specified inputSource) changes ... " />
+                <marker date="1556778136866" expanded="true" signature="8581:8670" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="8680:9171" ph="///Stops executing a function when the *functional* active state of this action (with the specified inputSource)  ... " />
+                <marker date="1556778136866" expanded="true" signature="9298:9394" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="9404:9867" ph="///Executes a function when the active state of this action (with the specified inputSource) changes. This happen ... " />
+                <marker date="1556778136866" expanded="true" signature="9991:10087" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="10097:10437" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+                <marker date="1556778136866" expanded="true" signature="10571:10674" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="10684:11103" ph="///Executes a function when the state of this action (with the specified inputSource) changes ... " />
+                <marker date="1556778136866" expanded="true" signature="11208:11291" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="11301:11644" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+                <marker date="1556778136866" expanded="true" signature="11759:11849" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="11859:12282" ph="///Executes a function when the state of this action (with the specified inputSource) is updated. ... " />
+                <marker date="1556778136866" expanded="true" signature="12387:12470" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="12480:12820" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+                <marker date="1556778136866" expanded="true" signature="12935:13025" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="13035:13476" ph="///Executes a function when the state of this action (with the specified inputSource) changes to true (from false ... " />
+                <marker date="1556778136866" expanded="true" signature="13587:13673" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="13683:14023" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+                <marker date="1556778136866" expanded="true" signature="14144:14237" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="14247:14688" ph="///Executes a function when the state of this action (with the specified inputSource) changes to false (from true ... " />
+                <marker date="1556778136866" expanded="true" signature="14795:14879" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="14889:15222" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+                <marker date="1556778136866" expanded="true" signature="15339:15430" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="15495:15515" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="15581:15637" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="15761:15773" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="15873:23746" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="17356:17576" ph="///True when the action's state changes from false to true. Note: Will only return true if the action is also act ... " />
+                <marker date="1556778136866" expanded="true" signature="17687:17907" ph="///True when the action's state changes from true to false. Note: Will only return true if the action is also act ... " />
+                <marker date="1556778136866" expanded="true" signature="18025:18269" ph="///True when the action's state changed during the most recent update. Note: Will only return true if the action  ... " />
+                <marker date="1556778136866" expanded="true" signature="18385:18540" ph="///The value of the action's 'state' during the previous update ... " />
+                <marker date="1556778136866" expanded="true" signature="18622:18781" ph="///The value of the action's 'stateDown' during the previous update ... " />
+                <marker date="1556778136866" expanded="true" signature="18894:19051" ph="///The value of the action's 'stateUp' during the previous update ... " />
+                <marker date="1556778136866" expanded="true" signature="19171:19388" ph="///The value of the action's 'changed' during the previous update ... " />
+                <marker date="1556778136866" expanded="true" signature="19658:19829" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="19684:19819" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="21058:21239" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt; Sets up the internals of the action source before SteamV ... " />
+                <marker date="1556778136866" expanded="true" signature="21351:21503" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="21513:21729" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+                <marker date="1556778136866" expanded="true" signature="21771:21952" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="21962:22141" ph="///&lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+                <marker date="1556778136866" expanded="true" signature="22184:23740" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="22797:23408" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="23824:24953" ph="{...}" />
+                <marker date="1556778136866" expanded="true" signature="24354:24509" ph="///The value of the action's 'state' during the previous update ... " />
+                <marker date="1556778136866" expanded="true" signature="24551:24710" ph="///The value of the action's 'stateDown' during the previous update ... " />
+                <marker date="1556778136866" expanded="true" signature="24756:24913" ph="///The value of the action's 'stateUp' during the previous update ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FadeInText.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <marker date="1556794913132" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556794913132" expanded="true" signature="119:285" ph="{...}" />
+                <marker date="1556794913132" expanded="true" signature="236:282" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FadeInText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Boolean.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/FadeInText.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="789" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="" />
+      <created>1556780714371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556780714371</updated>
+      <workItem from="1556780717355" duration="467000" />
+      <workItem from="1556783129655" duration="1971000" />
+      <workItem from="1556794884090" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2468000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="789" height="1047" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29492456" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/SteamVR_Input/ActionSetClasses/SteamVR_Input_ActionSet_NewSet.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Boolean.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <marker date="1556778136866" expanded="false" signature="87:227" ph="..." />
+            <marker date="1556778136866" expanded="true" signature="247:24955" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="273:472" ph="/* Boolean actions are either true or false. There are a variety of helper events included that will fire for th ... */" />
+            <marker date="1556778136866" expanded="true" signature="655:15643" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="1603:1746" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="1928:2071" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="2273:2414" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="2669:2818" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="3069:3214" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="3440:3595" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="3804:3973" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="5553:5812" ph="///Returns true if the value of the action has been changed to true (from false) in the most recent update. ... " />
+            <marker date="1556778136866" expanded="true" signature="5880:5953" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="5963:6222" ph="///Returns true if the value of the action has been changed to false (from true) in the most recent update. ... " />
+            <marker date="1556778136866" expanded="true" signature="6288:6359" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="6369:6589" ph="///Returns true if the value of the action (state) is currently true ... " />
+            <marker date="1556778136866" expanded="true" signature="6653:6722" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="6732:6987" ph="///[For the previous update] Returns true if the value of the action has been set to true (from false). ... " />
+            <marker date="1556778136866" expanded="true" signature="7059:7136" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="7146:7401" ph="///[For the previous update] Returns true if the value of the action has been set to false (from true). ... " />
+            <marker date="1556778136866" expanded="true" signature="7471:7546" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="7556:7786" ph="///[For the previous update] Returns true if the value of the action was true. ... " />
+            <marker date="1556778136866" expanded="true" signature="7854:7927" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="7937:8464" ph="///Executes a function when the *functional* active state of this action (with the specified inputSource) changes ... " />
+            <marker date="1556778136866" expanded="true" signature="8581:8670" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="8680:9171" ph="///Stops executing a function when the *functional* active state of this action (with the specified inputSource)  ... " />
+            <marker date="1556778136866" expanded="true" signature="9298:9394" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="9404:9867" ph="///Executes a function when the active state of this action (with the specified inputSource) changes. This happen ... " />
+            <marker date="1556778136866" expanded="true" signature="9991:10087" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="10097:10437" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="10571:10674" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="10684:11103" ph="///Executes a function when the state of this action (with the specified inputSource) changes ... " />
+            <marker date="1556778136866" expanded="true" signature="11208:11291" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="11301:11644" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="11759:11849" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="11859:12282" ph="///Executes a function when the state of this action (with the specified inputSource) is updated. ... " />
+            <marker date="1556778136866" expanded="true" signature="12387:12470" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="12480:12820" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="12935:13025" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="13035:13476" ph="///Executes a function when the state of this action (with the specified inputSource) changes to true (from false ... " />
+            <marker date="1556778136866" expanded="true" signature="13587:13673" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="13683:14023" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="14144:14237" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="14247:14688" ph="///Executes a function when the state of this action (with the specified inputSource) changes to false (from true ... " />
+            <marker date="1556778136866" expanded="true" signature="14795:14879" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="14889:15222" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="15339:15430" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="15495:15515" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="15581:15637" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="15761:15773" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="15873:23746" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="17356:17576" ph="///True when the action's state changes from false to true. Note: Will only return true if the action is also act ... " />
+            <marker date="1556778136866" expanded="true" signature="17687:17907" ph="///True when the action's state changes from true to false. Note: Will only return true if the action is also act ... " />
+            <marker date="1556778136866" expanded="true" signature="18025:18269" ph="///True when the action's state changed during the most recent update. Note: Will only return true if the action  ... " />
+            <marker date="1556778136866" expanded="true" signature="18385:18540" ph="///The value of the action's 'state' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="18622:18781" ph="///The value of the action's 'stateDown' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="18894:19051" ph="///The value of the action's 'stateUp' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="19171:19388" ph="///The value of the action's 'changed' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="19658:19829" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="19684:19819" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="21058:21239" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt; Sets up the internals of the action source before SteamV ... " />
+            <marker date="1556778136866" expanded="true" signature="21351:21503" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="21513:21729" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+            <marker date="1556778136866" expanded="true" signature="21771:21952" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="21962:22141" ph="///&lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+            <marker date="1556778136866" expanded="true" signature="22184:23740" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="22797:23408" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="23824:24953" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="24354:24509" ph="///The value of the action's 'state' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="24551:24710" ph="///The value of the action's 'stateDown' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="24756:24913" ph="///The value of the action's 'stateUp' during the previous update ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FadeInText.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <marker date="1556794913132" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556794913132" expanded="true" signature="119:285" ph="{...}" />
+            <marker date="1556794913132" expanded="true" signature="236:282" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

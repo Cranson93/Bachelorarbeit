@@ -1,0 +1,128 @@
+{
+  "actions": [
+    {
+      "name": "/actions/default/in/InteractUI",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/Teleport",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/GrabPinch",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/GrabGrip",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/Pose",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/default/in/SkeletonLeftHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/left"
+    },
+    {
+      "name": "/actions/default/in/SkeletonRightHand",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/right"
+    },
+    {
+      "name": "/actions/default/in/Squeeze",
+      "type": "vector1",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/default/in/HeadsetOnHead",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/default/in/GrabPinchLeft",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/GrabPinchRight",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/Menu",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/out/Haptic",
+      "type": "vibration"
+    },
+    {
+      "name": "/actions/main/in/OpenInventory",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/main/in/RightHand",
+      "type": "pose"
+    },
+    {
+      "name": "/actions/main/in/RightHand_Anim",
+      "type": "skeleton",
+      "skeleton": "/skeleton/hand/right"
+    },
+    {
+      "name": "/actions/driving/in/HonkHorn",
+      "type": "boolean",
+      "requirement": "optional"
+    },
+    {
+      "name": "/actions/driving/in/Throttle",
+      "type": "vector1",
+      "requirement": "suggested"
+    },
+    {
+      "name": "/actions/driving/out/SpeedBump",
+      "type": "vibration"
+    }
+  ],
+  "action_sets": [
+    {
+      "name": "/actions/default",
+      "usage": "leftright"
+    },
+    {
+      "name": "/actions/main",
+      "usage": "single"
+    },
+    {
+      "name": "/actions/driving",
+      "usage": "single"
+    }
+  ],
+  "default_bindings": [
+    {
+      "controller_type": "vive_controller",
+      "binding_url": "application_generated_unity_bachelorarbeit_exe_binding_vive_controller.json"
+    }
+  ],
+  "localization": [
+    {
+      "language_tag": "en",
+      "/actions/default/in/GrabGrip": "Grab Grip",
+      "/actions/default/in/GrabPinch": "Grab Pinch",
+      "/actions/default/in/HeadsetOnHead": "Headset on head (proximity sensor)",
+      "/actions/default/in/InteractUI": "Interact With UI",
+      "/actions/default/in/Pose": "Pose",
+      "/actions/default/in/SkeletonLeftHand": "Skeleton (Left)",
+      "/actions/default/in/SkeletonRightHand": "Skeleton (Right)",
+      "/actions/default/in/Teleport": "Teleport",
+      "/actions/default/out/Haptic": "Haptic",
+      "/actions/main/in/OpenInventory": "Open Inventory",
+      "/actions/main/in/RightHand": "Right Hand",
+      "/actions/main/in/RightHand_Anim": "Right Hand Animation",
+      "/actions/driving/in/HonkHorn": "Honk Horn",
+      "/actions/driving/out/SpeedBump": "Hit Speed Bump",
+      "/actions/driving/in/Throttle": "Throttle"
+    }
+  ]
+}
