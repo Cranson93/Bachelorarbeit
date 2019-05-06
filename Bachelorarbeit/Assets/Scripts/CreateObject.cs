@@ -2,14 +2,18 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FadeInText : MonoBehaviour
+public class CreateObject : MonoBehaviour
 {
     public GameObject Cube;
     // Start is called before the first frame update
-    private void OnTriggerEnter()
+ 
+    private void OnTriggerEnter(Collider other)
     {
-      
         Instantiate(Cube);
     }
 
+   
 }
+
+   
+
