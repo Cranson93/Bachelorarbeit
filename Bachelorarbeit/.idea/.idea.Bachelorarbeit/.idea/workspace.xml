@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GetChildrenComponent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/GetChildrenComponent.cs.meta" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,128 +16,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Boolean.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1105">
-              <caret line="79" selection-start-line="79" selection-end-line="79" />
-              <folding>
-                <marker date="1556778136866" expanded="false" signature="87:227" ph="..." />
-                <marker date="1556778136866" expanded="true" signature="247:24955" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="273:472" ph="/* Boolean actions are either true or false. There are a variety of helper events included that will fire for th ... */" />
-                <marker date="1556778136866" expanded="true" signature="655:15643" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="1603:1746" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="1928:2071" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="2273:2414" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="2669:2818" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="3069:3214" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="3440:3595" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="3804:3973" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="5553:5812" ph="///Returns true if the value of the action has been changed to true (from false) in the most recent update. ... " />
-                <marker date="1556778136866" expanded="true" signature="5880:5953" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="5963:6222" ph="///Returns true if the value of the action has been changed to false (from true) in the most recent update. ... " />
-                <marker date="1556778136866" expanded="true" signature="6288:6359" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="6369:6589" ph="///Returns true if the value of the action (state) is currently true ... " />
-                <marker date="1556778136866" expanded="true" signature="6653:6722" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="6732:6987" ph="///[For the previous update] Returns true if the value of the action has been set to true (from false). ... " />
-                <marker date="1556778136866" expanded="true" signature="7059:7136" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="7146:7401" ph="///[For the previous update] Returns true if the value of the action has been set to false (from true). ... " />
-                <marker date="1556778136866" expanded="true" signature="7471:7546" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="7556:7786" ph="///[For the previous update] Returns true if the value of the action was true. ... " />
-                <marker date="1556778136866" expanded="true" signature="7854:7927" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="7937:8464" ph="///Executes a function when the *functional* active state of this action (with the specified inputSource) changes ... " />
-                <marker date="1556778136866" expanded="true" signature="8581:8670" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="8680:9171" ph="///Stops executing a function when the *functional* active state of this action (with the specified inputSource)  ... " />
-                <marker date="1556778136866" expanded="true" signature="9298:9394" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="9404:9867" ph="///Executes a function when the active state of this action (with the specified inputSource) changes. This happen ... " />
-                <marker date="1556778136866" expanded="true" signature="9991:10087" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="10097:10437" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-                <marker date="1556778136866" expanded="true" signature="10571:10674" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="10684:11103" ph="///Executes a function when the state of this action (with the specified inputSource) changes ... " />
-                <marker date="1556778136866" expanded="true" signature="11208:11291" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="11301:11644" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-                <marker date="1556778136866" expanded="true" signature="11759:11849" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="11859:12282" ph="///Executes a function when the state of this action (with the specified inputSource) is updated. ... " />
-                <marker date="1556778136866" expanded="true" signature="12387:12470" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="12480:12820" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-                <marker date="1556778136866" expanded="true" signature="12935:13025" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="13035:13476" ph="///Executes a function when the state of this action (with the specified inputSource) changes to true (from false ... " />
-                <marker date="1556778136866" expanded="true" signature="13587:13673" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="13683:14023" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-                <marker date="1556778136866" expanded="true" signature="14144:14237" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="14247:14688" ph="///Executes a function when the state of this action (with the specified inputSource) changes to false (from true ... " />
-                <marker date="1556778136866" expanded="true" signature="14795:14879" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="14889:15222" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-                <marker date="1556778136866" expanded="true" signature="15339:15430" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="15495:15515" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="15581:15637" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="15761:15773" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="15873:23746" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="17356:17576" ph="///True when the action's state changes from false to true. Note: Will only return true if the action is also act ... " />
-                <marker date="1556778136866" expanded="true" signature="17687:17907" ph="///True when the action's state changes from true to false. Note: Will only return true if the action is also act ... " />
-                <marker date="1556778136866" expanded="true" signature="18025:18269" ph="///True when the action's state changed during the most recent update. Note: Will only return true if the action  ... " />
-                <marker date="1556778136866" expanded="true" signature="18385:18540" ph="///The value of the action's 'state' during the previous update ... " />
-                <marker date="1556778136866" expanded="true" signature="18622:18781" ph="///The value of the action's 'stateDown' during the previous update ... " />
-                <marker date="1556778136866" expanded="true" signature="18894:19051" ph="///The value of the action's 'stateUp' during the previous update ... " />
-                <marker date="1556778136866" expanded="true" signature="19171:19388" ph="///The value of the action's 'changed' during the previous update ... " />
-                <marker date="1556778136866" expanded="true" signature="19658:19829" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="19684:19819" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="21058:21239" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt; Sets up the internals of the action source before SteamV ... " />
-                <marker date="1556778136866" expanded="true" signature="21351:21503" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="21513:21729" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
-                <marker date="1556778136866" expanded="true" signature="21771:21952" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="21962:22141" ph="///&lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
-                <marker date="1556778136866" expanded="true" signature="22184:23740" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="22797:23408" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="23824:24953" ph="{...}" />
-                <marker date="1556778136866" expanded="true" signature="24354:24509" ph="///The value of the action's 'state' during the previous update ... " />
-                <marker date="1556778136866" expanded="true" signature="24551:24710" ph="///The value of the action's 'stateDown' during the previous update ... " />
-                <marker date="1556778136866" expanded="true" signature="24756:24913" ph="///The value of the action's 'stateUp' during the previous update ... " />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreateObject.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <marker date="1557140578797" expanded="false" signature="6:78" ph="..." />
-                <marker date="1557140578797" expanded="true" signature="121:300" ph="{...}" />
-                <marker date="1557140578797" expanded="true" signature="254:293" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-              <folding>
-                <marker date="1557146350204" expanded="false" signature="6:78" ph="..." />
-                <marker date="1557146350204" expanded="true" signature="127:519" ph="{...}" />
-                <marker date="1557146350204" expanded="true" signature="228:348" ph="{...}" />
-                <marker date="1557146350204" expanded="true" signature="285:342" ph="{...}" />
-                <marker date="1557146350204" expanded="true" signature="396:517" ph="{...}" />
-                <marker date="1557146350204" expanded="true" signature="453:511" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_RenderModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GetChildrenComponent.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Throwable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/RenderModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
@@ -221,12 +111,12 @@
       <workItem from="1556780717355" duration="467000" />
       <workItem from="1556783129655" duration="1971000" />
       <workItem from="1556794884090" duration="99000" />
-      <workItem from="1557126399757" duration="11563000" />
+      <workItem from="1557126399757" duration="14503000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14100000" />
+    <option name="totallyTimeSpent" value="17040000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -239,7 +129,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="976" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24126637" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -292,86 +181,6 @@
     <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-646" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Boolean.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1105">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-          <folding>
-            <marker date="1556778136866" expanded="false" signature="87:227" ph="..." />
-            <marker date="1556778136866" expanded="true" signature="247:24955" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="273:472" ph="/* Boolean actions are either true or false. There are a variety of helper events included that will fire for th ... */" />
-            <marker date="1556778136866" expanded="true" signature="655:15643" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="1603:1746" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="1928:2071" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="2273:2414" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="2669:2818" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="3069:3214" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="3440:3595" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="3804:3973" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="5553:5812" ph="///Returns true if the value of the action has been changed to true (from false) in the most recent update. ... " />
-            <marker date="1556778136866" expanded="true" signature="5880:5953" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="5963:6222" ph="///Returns true if the value of the action has been changed to false (from true) in the most recent update. ... " />
-            <marker date="1556778136866" expanded="true" signature="6288:6359" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="6369:6589" ph="///Returns true if the value of the action (state) is currently true ... " />
-            <marker date="1556778136866" expanded="true" signature="6653:6722" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="6732:6987" ph="///[For the previous update] Returns true if the value of the action has been set to true (from false). ... " />
-            <marker date="1556778136866" expanded="true" signature="7059:7136" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="7146:7401" ph="///[For the previous update] Returns true if the value of the action has been set to false (from true). ... " />
-            <marker date="1556778136866" expanded="true" signature="7471:7546" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="7556:7786" ph="///[For the previous update] Returns true if the value of the action was true. ... " />
-            <marker date="1556778136866" expanded="true" signature="7854:7927" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="7937:8464" ph="///Executes a function when the *functional* active state of this action (with the specified inputSource) changes ... " />
-            <marker date="1556778136866" expanded="true" signature="8581:8670" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="8680:9171" ph="///Stops executing a function when the *functional* active state of this action (with the specified inputSource)  ... " />
-            <marker date="1556778136866" expanded="true" signature="9298:9394" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="9404:9867" ph="///Executes a function when the active state of this action (with the specified inputSource) changes. This happen ... " />
-            <marker date="1556778136866" expanded="true" signature="9991:10087" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="10097:10437" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-            <marker date="1556778136866" expanded="true" signature="10571:10674" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="10684:11103" ph="///Executes a function when the state of this action (with the specified inputSource) changes ... " />
-            <marker date="1556778136866" expanded="true" signature="11208:11291" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="11301:11644" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-            <marker date="1556778136866" expanded="true" signature="11759:11849" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="11859:12282" ph="///Executes a function when the state of this action (with the specified inputSource) is updated. ... " />
-            <marker date="1556778136866" expanded="true" signature="12387:12470" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="12480:12820" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-            <marker date="1556778136866" expanded="true" signature="12935:13025" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="13035:13476" ph="///Executes a function when the state of this action (with the specified inputSource) changes to true (from false ... " />
-            <marker date="1556778136866" expanded="true" signature="13587:13673" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="13683:14023" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-            <marker date="1556778136866" expanded="true" signature="14144:14237" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="14247:14688" ph="///Executes a function when the state of this action (with the specified inputSource) changes to false (from true ... " />
-            <marker date="1556778136866" expanded="true" signature="14795:14879" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="14889:15222" ph="///Stops executing the function setup by the corresponding AddListener ... " />
-            <marker date="1556778136866" expanded="true" signature="15339:15430" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="15495:15515" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="15581:15637" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="15761:15773" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="15873:23746" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="17356:17576" ph="///True when the action's state changes from false to true. Note: Will only return true if the action is also act ... " />
-            <marker date="1556778136866" expanded="true" signature="17687:17907" ph="///True when the action's state changes from true to false. Note: Will only return true if the action is also act ... " />
-            <marker date="1556778136866" expanded="true" signature="18025:18269" ph="///True when the action's state changed during the most recent update. Note: Will only return true if the action  ... " />
-            <marker date="1556778136866" expanded="true" signature="18385:18540" ph="///The value of the action's 'state' during the previous update ... " />
-            <marker date="1556778136866" expanded="true" signature="18622:18781" ph="///The value of the action's 'stateDown' during the previous update ... " />
-            <marker date="1556778136866" expanded="true" signature="18894:19051" ph="///The value of the action's 'stateUp' during the previous update ... " />
-            <marker date="1556778136866" expanded="true" signature="19171:19388" ph="///The value of the action's 'changed' during the previous update ... " />
-            <marker date="1556778136866" expanded="true" signature="19658:19829" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="19684:19819" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="21058:21239" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt; Sets up the internals of the action source before SteamV ... " />
-            <marker date="1556778136866" expanded="true" signature="21351:21503" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="21513:21729" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
-            <marker date="1556778136866" expanded="true" signature="21771:21952" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="21962:22141" ph="///&lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
-            <marker date="1556778136866" expanded="true" signature="22184:23740" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="22797:23408" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="23824:24953" ph="{...}" />
-            <marker date="1556778136866" expanded="true" signature="24354:24509" ph="///The value of the action's 'state' during the previous update ... " />
-            <marker date="1556778136866" expanded="true" signature="24551:24710" ph="///The value of the action's 'stateDown' during the previous update ... " />
-            <marker date="1556778136866" expanded="true" signature="24756:24913" ph="///The value of the action's 'stateUp' during the previous update ... " />
-          </folding>
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Throwable.cs">
@@ -677,10 +486,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GetChildrenComponent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1557152818418" expanded="false" signature="6:91" ph="..." />
+            <marker date="1557152818418" expanded="true" signature="162:722" ph="{...}" />
+            <marker date="1557152818418" expanded="true" signature="317:491" ph="{...}" />
+            <marker date="1557152818418" expanded="true" signature="374:485" ph="{...}" />
+            <marker date="1557152818418" expanded="true" signature="539:715" ph="{...}" />
+            <marker date="1557152818418" expanded="true" signature="596:709" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreateObject.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <marker date="1557140578797" expanded="false" signature="6:78" ph="..." />
             <marker date="1557140578797" expanded="true" signature="121:300" ph="{...}" />
@@ -689,30 +520,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/GetChildrenComponent.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Boolean.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="279">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
           <folding>
-            <marker date="1557144076701" expanded="false" signature="6:78" ph="..." />
-            <marker date="1557144076701" expanded="true" signature="129:380" ph="{...}" />
-            <marker date="1557144076701" expanded="true" signature="237:307" ph="{...}" />
-            <marker date="1557144076701" expanded="true" signature="365:378" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-          <folding>
-            <marker date="1557146350204" expanded="false" signature="6:78" ph="..." />
-            <marker date="1557146350204" expanded="true" signature="127:519" ph="{...}" />
-            <marker date="1557146350204" expanded="true" signature="228:348" ph="{...}" />
-            <marker date="1557146350204" expanded="true" signature="285:342" ph="{...}" />
-            <marker date="1557146350204" expanded="true" signature="396:517" ph="{...}" />
-            <marker date="1557146350204" expanded="true" signature="453:511" ph="{...}" />
+            <marker date="1556778136866" expanded="false" signature="87:227" ph="..." />
+            <marker date="1556778136866" expanded="true" signature="247:24955" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="273:472" ph="/* Boolean actions are either true or false. There are a variety of helper events included that will fire for th ... */" />
+            <marker date="1556778136866" expanded="true" signature="655:15643" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="1603:1746" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="1928:2071" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="2273:2414" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="2669:2818" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="3069:3214" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="3440:3595" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="3804:3973" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="5553:5812" ph="///Returns true if the value of the action has been changed to true (from false) in the most recent update. ... " />
+            <marker date="1556778136866" expanded="true" signature="5880:5953" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="5963:6222" ph="///Returns true if the value of the action has been changed to false (from true) in the most recent update. ... " />
+            <marker date="1556778136866" expanded="true" signature="6288:6359" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="6369:6589" ph="///Returns true if the value of the action (state) is currently true ... " />
+            <marker date="1556778136866" expanded="true" signature="6653:6722" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="6732:6987" ph="///[For the previous update] Returns true if the value of the action has been set to true (from false). ... " />
+            <marker date="1556778136866" expanded="true" signature="7059:7136" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="7146:7401" ph="///[For the previous update] Returns true if the value of the action has been set to false (from true). ... " />
+            <marker date="1556778136866" expanded="true" signature="7471:7546" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="7556:7786" ph="///[For the previous update] Returns true if the value of the action was true. ... " />
+            <marker date="1556778136866" expanded="true" signature="7854:7927" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="7937:8464" ph="///Executes a function when the *functional* active state of this action (with the specified inputSource) changes ... " />
+            <marker date="1556778136866" expanded="true" signature="8581:8670" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="8680:9171" ph="///Stops executing a function when the *functional* active state of this action (with the specified inputSource)  ... " />
+            <marker date="1556778136866" expanded="true" signature="9298:9394" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="9404:9867" ph="///Executes a function when the active state of this action (with the specified inputSource) changes. This happen ... " />
+            <marker date="1556778136866" expanded="true" signature="9991:10087" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="10097:10437" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="10571:10674" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="10684:11103" ph="///Executes a function when the state of this action (with the specified inputSource) changes ... " />
+            <marker date="1556778136866" expanded="true" signature="11208:11291" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="11301:11644" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="11759:11849" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="11859:12282" ph="///Executes a function when the state of this action (with the specified inputSource) is updated. ... " />
+            <marker date="1556778136866" expanded="true" signature="12387:12470" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="12480:12820" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="12935:13025" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="13035:13476" ph="///Executes a function when the state of this action (with the specified inputSource) changes to true (from false ... " />
+            <marker date="1556778136866" expanded="true" signature="13587:13673" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="13683:14023" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="14144:14237" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="14247:14688" ph="///Executes a function when the state of this action (with the specified inputSource) changes to false (from true ... " />
+            <marker date="1556778136866" expanded="true" signature="14795:14879" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="14889:15222" ph="///Stops executing the function setup by the corresponding AddListener ... " />
+            <marker date="1556778136866" expanded="true" signature="15339:15430" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="15495:15515" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="15581:15637" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="15761:15773" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="15873:23746" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="17356:17576" ph="///True when the action's state changes from false to true. Note: Will only return true if the action is also act ... " />
+            <marker date="1556778136866" expanded="true" signature="17687:17907" ph="///True when the action's state changes from true to false. Note: Will only return true if the action is also act ... " />
+            <marker date="1556778136866" expanded="true" signature="18025:18269" ph="///True when the action's state changed during the most recent update. Note: Will only return true if the action  ... " />
+            <marker date="1556778136866" expanded="true" signature="18385:18540" ph="///The value of the action's 'state' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="18622:18781" ph="///The value of the action's 'stateDown' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="18894:19051" ph="///The value of the action's 'stateUp' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="19171:19388" ph="///The value of the action's 'changed' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="19658:19829" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="19684:19819" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="21058:21239" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt; Sets up the internals of the action source before SteamV ... " />
+            <marker date="1556778136866" expanded="true" signature="21351:21503" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="21513:21729" ph="/// &lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+            <marker date="1556778136866" expanded="true" signature="21771:21952" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="21962:22141" ph="///&lt;strong&gt;[Should not be called by user code]&lt;/strong&gt;  ... " />
+            <marker date="1556778136866" expanded="true" signature="22184:23740" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="22797:23408" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="23824:24953" ph="{...}" />
+            <marker date="1556778136866" expanded="true" signature="24354:24509" ph="///The value of the action's 'state' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="24551:24710" ph="///The value of the action's 'stateDown' during the previous update ... " />
+            <marker date="1556778136866" expanded="true" signature="24756:24913" ph="///The value of the action's 'stateUp' during the previous update ... " />
           </folding>
         </state>
       </provider>
