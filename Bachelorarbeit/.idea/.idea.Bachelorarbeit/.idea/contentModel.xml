@@ -20,7 +20,6 @@
             <e p="Demo" t="Include">
               <e p="ButtonClickHandler.cs" t="Include" />
               <e p="ButtonListener.cs" t="Include" />
-              <e p="CubeListener.cs" t="Include" />
               <e p="GazeCrosshairOnOff.cs" t="Include" />
             </e>
             <e p="GazeInputModule.cs" t="Include" />
@@ -29,6 +28,8 @@
         </e>
         <e p="Scripts" t="Include">
           <e p="CreateObject.cs" t="Include" />
+          <e p="CubeListener.cs" t="Include" />
+          <e p="DisplayListener.cs" t="Include" />
           <e p="DisplayOnCollision.cs" t="Include" />
           <e p="Product.cs" t="Include" />
           <e p="ProductDisplay.cs" t="Include" />
