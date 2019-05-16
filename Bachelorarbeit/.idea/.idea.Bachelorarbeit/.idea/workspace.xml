@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="" />
+    <list default="true" id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Bar.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Bar.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportAreaVisible.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportAreaVisible.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointer.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportPointer.mat" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,12 +16,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
               <folding>
                 <marker date="1557152818418" expanded="false" signature="6:113" ph="..." />
                 <marker date="1557152818418" expanded="true" signature="162:722" ph="{...}" />
@@ -27,20 +34,169 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportArea.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="348">
+              <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+              <folding>
+                <marker date="1556778138063" expanded="true" signature="0:217" ph="/* ======= Copyright (c) Valve Corporation, All rights reserved. =============== ... */" />
+                <marker date="1556778138063" expanded="false" signature="225:273" ph="..." />
+                <marker date="1556778138063" expanded="true" signature="318:4416" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="445:3536" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="861:991" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="1069:1338" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="1458:1482" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="1580:1604" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="1711:1963" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="1733:1959" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="1789:1869" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="1878:1954" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="2090:2230" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="2325:2503" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="2346:2418" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="2426:2499" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="2597:2900" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="2731:2809" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="2817:2896" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="2989:3245" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3077:3105" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3167:3195" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3332:3533" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3353:3391" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3399:3529" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3427:3473" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3482:3524" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3716:4407" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3791:4028" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3839:4024" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="3964:4019" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="4124:4404" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="4200:4400" ph="{...}" />
+                <marker date="1556778138063" expanded="true" signature="4340:4395" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModule.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+              <folding>
+                <marker date="1440418981000" expanded="false" signature="62:140" ph="..." />
+                <marker date="1440418981000" expanded="true" signature="142:516" ph="/* To use: ... */" />
+                <marker date="1440418981000" expanded="true" signature="567:2976" ph="{...}" />
+                <marker date="1440418981000" expanded="true" signature="968:1012" ph="{...}" />
+                <marker date="1440418981000" expanded="true" signature="1032:1566" ph="{...}" />
+                <marker date="1440418981000" expanded="true" signature="1067:1132" ph="{...}" />
+                <marker date="1440418981000" expanded="true" signature="1592:2972" ph="{...}" />
+                <marker date="1440418981000" expanded="true" signature="1640:2922" ph="{...}" />
+                <marker date="1440418981000" expanded="true" signature="1857:1987" ph="{...}" />
+                <marker date="1440418981000" expanded="true" signature="2252:2918" ph="{...}" />
+                <marker date="1440418981000" expanded="true" signature="2320:2544" ph="{...}" />
+                <marker date="1440418981000" expanded="true" signature="2929:2969" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI/EyeRaycaster.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1819">
+              <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+              <folding>
+                <marker date="1557997401163" expanded="false" signature="6:128" ph="..." />
+                <marker date="1557997401163" expanded="true" signature="171:3818" ph="{...}" />
+                <marker date="1557997401163" expanded="true" signature="570:946" ph="{...}" />
+                <marker date="1557997401163" expanded="true" signature="962:3816" ph="{...}" />
+                <marker date="1557997401163" expanded="true" signature="1347:3479" ph="{...}" />
+                <marker date="1557997401163" expanded="true" signature="1480:2881" ph="{...}" />
+                <marker date="1557997401163" expanded="true" signature="2027:2876" ph="{...}" />
+                <marker date="1557997401163" expanded="true" signature="2389:2870" ph="{...}" />
+                <marker date="1557997401163" expanded="true" signature="2930:3475" ph="{...}" />
+                <marker date="1557997401163" expanded="true" signature="3100:3201" ph="{...}" />
+                <marker date="1557997401163" expanded="true" signature="3511:3812" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/VisionRaycast.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="26" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="26" />
+              <folding>
+                <marker date="1558025567261" expanded="true" signature="6:44" ph="..." />
+                <marker date="1558025567261" expanded="true" signature="123:783" ph="{...}" />
+                <marker date="1558025567261" expanded="true" signature="215:228" ph="{...}" />
+                <marker date="1558025567261" expanded="true" signature="250:781" ph="{...}" />
+                <marker date="1558025567261" expanded="true" signature="553:664" ph="{...}" />
+                <marker date="1558025567261" expanded="true" signature="707:775" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModuleCrosshair.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="43" selection-start-line="43" selection-end-line="43" />
+              <folding>
+                <marker date="1440322710000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1440322710000" expanded="true" signature="46:463" ph="/* To use: ... */" />
+                <marker date="1440322710000" expanded="true" signature="562:2045" ph="{...}" />
+                <marker date="1440322710000" expanded="true" signature="934:993" ph="{...}" />
+                <marker date="1440322710000" expanded="true" signature="1010:1271" ph="{...}" />
+                <marker date="1440322710000" expanded="true" signature="1290:1692" ph="{...}" />
+                <marker date="1440322710000" expanded="true" signature="1401:1689" ph="{...}" />
+                <marker date="1440322710000" expanded="true" signature="1567:1647" ph="{...}" />
+                <marker date="1440322710000" expanded="true" signature="1734:2043" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/CubeListener.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1437818078000" expanded="false" signature="6:44" ph="..." />
+                <marker date="1437818078000" expanded="true" signature="88:368" ph="{...}" />
+                <marker date="1437818078000" expanded="true" signature="122:271" ph="{...}" />
+                <marker date="1437818078000" expanded="true" signature="303:366" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/VRTransform.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Scripts/SteamVR_RenderModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Throwable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportArea.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/RenderModel.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI/EyeRaycaster.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/Input/SteamVR_Action_Boolean.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VisionRaycast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModule.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModuleCrosshair.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Throwable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6BB1E07-E811-405E-8130-84A5C27EF139/d2/78186d5a/RaycastHit.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/CubeListener.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -50,13 +206,16 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CreateObject.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DisplayOnCollission.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/GetChildrenComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/VRTransform.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs" />
+        <option value="$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI/EyeRaycaster.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VisionRaycast.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="976" />
+    <option name="x" value="953" />
+    <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -65,12 +224,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -95,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor &amp; Play">
     <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
@@ -124,11 +283,12 @@
       <workItem from="1556794884090" duration="99000" />
       <workItem from="1557126399757" duration="14503000" />
       <workItem from="1557816134022" duration="599000" />
+      <workItem from="1557990481783" duration="8794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17639000" />
+    <option name="totallyTimeSpent" value="26433000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -140,15 +300,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="976" height="1047" extended-state="0" />
+    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24672489" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13894968" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -163,10 +324,10 @@
       <window_info anchor="bottom" id="Unit Tests" order="13" />
       <window_info anchor="bottom" id="Terminal" order="14" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Inspection Results" order="16" visible="true" weight="0.32932165" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.32932165" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.24945295" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="right" id="Errors In Solution" order="4" />
       <window_info anchor="right" id="Database" order="5" />
@@ -576,7 +737,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
           <folding>
             <marker date="1557152818418" expanded="false" signature="6:113" ph="..." />
             <marker date="1557152818418" expanded="true" signature="162:722" ph="{...}" />
@@ -584,6 +745,154 @@
             <marker date="1557152818418" expanded="true" signature="374:485" ph="{...}" />
             <marker date="1557152818418" expanded="true" signature="539:715" ph="{...}" />
             <marker date="1557152818418" expanded="true" signature="596:709" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/VRTransform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <marker date="1557993815399" expanded="false" signature="6:66" ph="..." />
+            <marker date="1557993815399" expanded="true" signature="109:277" ph="{...}" />
+            <marker date="1557993815399" expanded="true" signature="127:274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModuleCrosshair.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <marker date="1440322710000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1440322710000" expanded="true" signature="46:463" ph="/* To use: ... */" />
+            <marker date="1440322710000" expanded="true" signature="562:2045" ph="{...}" />
+            <marker date="1440322710000" expanded="true" signature="934:993" ph="{...}" />
+            <marker date="1440322710000" expanded="true" signature="1010:1271" ph="{...}" />
+            <marker date="1440322710000" expanded="true" signature="1290:1692" ph="{...}" />
+            <marker date="1440322710000" expanded="true" signature="1401:1689" ph="{...}" />
+            <marker date="1440322710000" expanded="true" signature="1567:1647" ph="{...}" />
+            <marker date="1440322710000" expanded="true" signature="1734:2043" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/CubeListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1437818078000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1437818078000" expanded="true" signature="88:368" ph="{...}" />
+            <marker date="1437818078000" expanded="true" signature="122:271" ph="{...}" />
+            <marker date="1437818078000" expanded="true" signature="303:366" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <marker date="1440418981000" expanded="false" signature="62:140" ph="..." />
+            <marker date="1440418981000" expanded="true" signature="142:516" ph="/* To use: ... */" />
+            <marker date="1440418981000" expanded="true" signature="567:2976" ph="{...}" />
+            <marker date="1440418981000" expanded="true" signature="968:1012" ph="{...}" />
+            <marker date="1440418981000" expanded="true" signature="1032:1566" ph="{...}" />
+            <marker date="1440418981000" expanded="true" signature="1067:1132" ph="{...}" />
+            <marker date="1440418981000" expanded="true" signature="1592:2972" ph="{...}" />
+            <marker date="1440418981000" expanded="true" signature="1640:2922" ph="{...}" />
+            <marker date="1440418981000" expanded="true" signature="1857:1987" ph="{...}" />
+            <marker date="1440418981000" expanded="true" signature="2252:2918" ph="{...}" />
+            <marker date="1440418981000" expanded="true" signature="2320:2544" ph="{...}" />
+            <marker date="1440418981000" expanded="true" signature="2929:2969" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportArea.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="32" column="26" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding>
+            <marker date="1556778138063" expanded="true" signature="0:217" ph="/* ======= Copyright (c) Valve Corporation, All rights reserved. =============== ... */" />
+            <marker date="1556778138063" expanded="false" signature="225:273" ph="..." />
+            <marker date="1556778138063" expanded="true" signature="318:4416" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="445:3536" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="861:991" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="1069:1338" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="1458:1482" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="1580:1604" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="1711:1963" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="1733:1959" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="1789:1869" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="1878:1954" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="2090:2230" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="2325:2503" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="2346:2418" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="2426:2499" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="2597:2900" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="2731:2809" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="2817:2896" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="2989:3245" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3077:3105" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3167:3195" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3332:3533" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3353:3391" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3399:3529" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3427:3473" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3482:3524" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3716:4407" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3791:4028" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3839:4024" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="3964:4019" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="4124:4404" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="4200:4400" ph="{...}" />
+            <marker date="1556778138063" expanded="true" signature="4340:4395" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI/EyeRaycaster.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1819">
+          <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
+          <folding>
+            <marker date="1557997401163" expanded="false" signature="6:128" ph="..." />
+            <marker date="1557997401163" expanded="true" signature="171:3818" ph="{...}" />
+            <marker date="1557997401163" expanded="true" signature="570:946" ph="{...}" />
+            <marker date="1557997401163" expanded="true" signature="962:3816" ph="{...}" />
+            <marker date="1557997401163" expanded="true" signature="1347:3479" ph="{...}" />
+            <marker date="1557997401163" expanded="true" signature="1480:2881" ph="{...}" />
+            <marker date="1557997401163" expanded="true" signature="2027:2876" ph="{...}" />
+            <marker date="1557997401163" expanded="true" signature="2389:2870" ph="{...}" />
+            <marker date="1557997401163" expanded="true" signature="2930:3475" ph="{...}" />
+            <marker date="1557997401163" expanded="true" signature="3100:3201" ph="{...}" />
+            <marker date="1557997401163" expanded="true" signature="3511:3812" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6BB1E07-E811-405E-8130-84A5C27EF139/d2/78186d5a/RaycastHit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1343">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/VisionRaycast.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <marker date="1558025567261" expanded="true" signature="6:44" ph="..." />
+            <marker date="1558025567261" expanded="true" signature="123:783" ph="{...}" />
+            <marker date="1558025567261" expanded="true" signature="215:228" ph="{...}" />
+            <marker date="1558025567261" expanded="true" signature="250:781" ph="{...}" />
+            <marker date="1558025567261" expanded="true" signature="553:664" ph="{...}" />
+            <marker date="1558025567261" expanded="true" signature="707:775" ph="{...}" />
           </folding>
         </state>
       </provider>
