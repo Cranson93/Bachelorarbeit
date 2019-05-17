@@ -6,6 +6,9 @@
     <e p="C:\Users\Student\Documents\GitHub\Bachelorarbeit\Bachelorarbeit" t="IncludeRecursive">
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="FoodAndGrocery" t="Include">
+          <e p="Info.txt" t="Include" />
+        </e>
         <e p="NullifyTransform.cs" t="Include" />
         <e p="PeterKoch" t="Include">
           <e p="Gaze" t="Include">

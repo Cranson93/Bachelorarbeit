@@ -2,10 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/Button.controller" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/Button.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/ButtonClickHandler.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/ButtonClickHandler.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/ButtonListener.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/ButtonListener.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/GazeCrosshairOnOff.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/GazeCrosshairOnOff.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/Materials/circle.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/Materials/circle.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/circle.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/circle.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/crosshair.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/crosshair.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModule.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModule.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModuleCrosshair.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModuleCrosshair.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Shelf.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Shelf.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Demo Gaze.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Demo Gaze.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportAreaVisible.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Materials/TeleportAreaVisible.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Surface Shader Scene.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Materials/Ground - Surface Shader Scene.mat" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeListener.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -47,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="102">
+              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
               <folding>
                 <marker date="1558099518717" expanded="false" signature="6:78" ph="..." />
                 <marker date="1558099518717" expanded="true" signature="124:564" ph="{...}" />
@@ -84,9 +109,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CreateObject.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/VisionRaycast.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CubeListener.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModule.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModuleCrosshair.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Throwable.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6BB1E07-E811-405E-8130-84A5C27EF139/d2/78186d5a/RaycastHit.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Core/Scripts/Interactable.cs" root0="FORCE_HIGHLIGHTING" />
@@ -110,7 +133,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
@@ -182,12 +205,12 @@
       <workItem from="1557126399757" duration="14503000" />
       <workItem from="1557816134022" duration="599000" />
       <workItem from="1557990481783" duration="10634000" />
-      <workItem from="1558075509717" duration="8593000" />
+      <workItem from="1558075509717" duration="9194000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36866000" />
+    <option name="totallyTimeSpent" value="37467000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -199,7 +222,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.069296375" />
@@ -884,6 +907,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <marker date="1558099518717" expanded="false" signature="6:78" ph="..." />
+            <marker date="1558099518717" expanded="true" signature="124:564" ph="{...}" />
+            <marker date="1558099518717" expanded="true" signature="209:384" ph="{...}" />
+            <marker date="1558099518717" expanded="true" signature="420:558" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeListener.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -893,19 +929,6 @@
             <marker date="1558086182570" expanded="true" signature="87:459" ph="{...}" />
             <marker date="1558086182570" expanded="true" signature="164:337" ph="{...}" />
             <marker date="1558086182570" expanded="true" signature="369:457" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <marker date="1558099518717" expanded="false" signature="6:78" ph="..." />
-            <marker date="1558099518717" expanded="true" signature="124:564" ph="{...}" />
-            <marker date="1558099518717" expanded="true" signature="209:384" ph="{...}" />
-            <marker date="1558099518717" expanded="true" signature="420:558" ph="{...}" />
           </folding>
         </state>
       </provider>
