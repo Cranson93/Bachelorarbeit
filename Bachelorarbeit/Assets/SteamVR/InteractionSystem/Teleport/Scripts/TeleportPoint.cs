@@ -8,6 +8,7 @@ using UnityEngine;
 using UnityEngine.UI;
 #if UNITY_EDITOR
 using UnityEditor;
+using UnityEngine.SceneManagement;
 #endif
 
 namespace Valve.VR.InteractionSystem
@@ -30,6 +31,8 @@ namespace Valve.VR.InteractionSystem
 		public Color titleLockedColor;
 		public bool playerSpawnPoint = false;
 
+		[SerializeField] public string sceneName;
+		
 		//Private data
 		private bool gotReleventComponents = false;
 		private MeshRenderer markerMesh;
@@ -219,6 +222,8 @@ namespace Valve.VR.InteractionSystem
 		//-------------------------------------------------
 		public void TeleportToScene()
 		{
+			SceneManager.LoadSceneAsync(sceneName);
+			
 			if ( !string.IsNullOrEmpty( switchToScene ) )
 			{
 				Debug.Log("<b>[SteamVR Interaction]</b> TeleportPoint: Hook up your level loading logic to switch to new scene: " + switchToScene );

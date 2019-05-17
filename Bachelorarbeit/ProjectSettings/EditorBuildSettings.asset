@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ARSupermarket.unity
+    guid: a9bebf77a86c10742877e4eb95651f66
+  - enabled: 1
+    path: Assets/Scenes/Demo Gaze.unity
+    guid: a9d7b9b6a5aeead42b7b0ffbcc88d646
+  - enabled: 1
+    path: Assets/GazeUI For Canvas/Scene/Demo.unity
+    guid: cc737a101c8d49e418c2c0491e3d0dd2
   m_configObjects: {}
