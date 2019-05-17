@@ -2,32 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Prefabs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Prefabs/Gaze.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Prefabs/Gaze.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/ReadMe.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/ReadMe.txt.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Scene.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Scene/Demo.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Scene/Demo.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI/EyeRaycaster.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI/EyeRaycaster.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Sprites.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Sprites/FadedCircle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/GazeUI For Canvas/Sprites/FadedCircle.png.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Demo Gaze.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Demo Gaze.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CubeListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CubeListener.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportPoint.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportPoint.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,11 +32,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeListener.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="68">
+              <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
               <folding>
                 <marker date="1558086182570" expanded="false" signature="6:44" ph="..." />
                 <marker date="1558086182570" expanded="true" signature="87:459" ph="{...}" />
@@ -69,16 +47,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding>
-                <marker date="1558083637352" expanded="false" signature="6:78" ph="..." />
-                <marker date="1558083637352" expanded="true" signature="124:501" ph="{...}" />
-                <marker date="1558083637352" expanded="true" signature="210:320" ph="{...}" />
-                <marker date="1558083637352" expanded="true" signature="357:495" ph="{...}" />
+                <marker date="1558099518717" expanded="false" signature="6:78" ph="..." />
+                <marker date="1558099518717" expanded="true" signature="124:564" ph="{...}" />
+                <marker date="1558099518717" expanded="true" signature="209:384" ph="{...}" />
+                <marker date="1558099518717" expanded="true" signature="420:558" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -127,8 +105,8 @@
         <option value="$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI/EyeRaycaster.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/VisionRaycast.cs" />
         <option value="$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportPoint.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CubeListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs" />
       </list>
     </option>
   </component>
@@ -204,12 +182,12 @@
       <workItem from="1557126399757" duration="14503000" />
       <workItem from="1557816134022" duration="599000" />
       <workItem from="1557990481783" duration="10634000" />
-      <workItem from="1558075509717" duration="6121000" />
+      <workItem from="1558075509717" duration="8593000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34394000" />
+    <option name="totallyTimeSpent" value="36866000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -906,28 +884,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <marker date="1558083637352" expanded="false" signature="6:78" ph="..." />
-            <marker date="1558083637352" expanded="true" signature="124:501" ph="{...}" />
-            <marker date="1558083637352" expanded="true" signature="210:320" ph="{...}" />
-            <marker date="1558083637352" expanded="true" signature="357:495" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeListener.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="68">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
           <folding>
             <marker date="1558086182570" expanded="false" signature="6:44" ph="..." />
             <marker date="1558086182570" expanded="true" signature="87:459" ph="{...}" />
             <marker date="1558086182570" expanded="true" signature="164:337" ph="{...}" />
             <marker date="1558086182570" expanded="true" signature="369:457" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding>
+            <marker date="1558099518717" expanded="false" signature="6:78" ph="..." />
+            <marker date="1558099518717" expanded="true" signature="124:564" ph="{...}" />
+            <marker date="1558099518717" expanded="true" signature="209:384" ph="{...}" />
+            <marker date="1558099518717" expanded="true" signature="420:558" ph="{...}" />
           </folding>
         </state>
       </provider>
