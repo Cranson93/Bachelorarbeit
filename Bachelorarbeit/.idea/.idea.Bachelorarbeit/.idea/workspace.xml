@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="" />
+    <list default="true" id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -69,15 +71,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,11 +132,12 @@
       <workItem from="1557816134022" duration="599000" />
       <workItem from="1557990481783" duration="10634000" />
       <workItem from="1558075509717" duration="10339000" />
+      <workItem from="1558338378792" duration="57000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38612000" />
+    <option name="totallyTimeSpent" value="38669000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -148,7 +151,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14223194" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14551422" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -579,27 +582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModule.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
-          <folding>
-            <marker date="1440418981000" expanded="false" signature="62:140" ph="..." />
-            <marker date="1440418981000" expanded="true" signature="142:516" ph="/* To use: ... */" />
-            <marker date="1440418981000" expanded="true" signature="567:2976" ph="{...}" />
-            <marker date="1440418981000" expanded="true" signature="968:1012" ph="{...}" />
-            <marker date="1440418981000" expanded="true" signature="1032:1566" ph="{...}" />
-            <marker date="1440418981000" expanded="true" signature="1067:1132" ph="{...}" />
-            <marker date="1440418981000" expanded="true" signature="1592:2972" ph="{...}" />
-            <marker date="1440418981000" expanded="true" signature="1640:2922" ph="{...}" />
-            <marker date="1440418981000" expanded="true" signature="1857:1987" ph="{...}" />
-            <marker date="1440418981000" expanded="true" signature="2252:2918" ph="{...}" />
-            <marker date="1440418981000" expanded="true" signature="2320:2544" ph="{...}" />
-            <marker date="1440418981000" expanded="true" signature="2929:2969" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModule.cs" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A6BB1E07-E811-405E-8130-84A5C27EF139/d2/78186d5a/RaycastHit.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1343">
@@ -607,24 +590,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModuleCrosshair.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="43" selection-start-line="43" selection-end-line="43" />
-          <folding>
-            <marker date="1440322710000" expanded="false" signature="6:44" ph="..." />
-            <marker date="1440322710000" expanded="true" signature="46:463" ph="/* To use: ... */" />
-            <marker date="1440322710000" expanded="true" signature="562:2045" ph="{...}" />
-            <marker date="1440322710000" expanded="true" signature="934:993" ph="{...}" />
-            <marker date="1440322710000" expanded="true" signature="1010:1271" ph="{...}" />
-            <marker date="1440322710000" expanded="true" signature="1290:1692" ph="{...}" />
-            <marker date="1440322710000" expanded="true" signature="1401:1689" ph="{...}" />
-            <marker date="1440322710000" expanded="true" signature="1567:1647" ph="{...}" />
-            <marker date="1440322710000" expanded="true" signature="1734:2043" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/GazeInputModuleCrosshair.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/VisionRaycast.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -640,26 +606,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI/EyeRaycaster.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1819">
-          <caret line="111" column="41" selection-start-line="111" selection-start-column="41" selection-end-line="111" selection-end-column="41" />
-          <folding>
-            <marker date="1557997401163" expanded="false" signature="6:128" ph="..." />
-            <marker date="1557997401163" expanded="true" signature="171:3818" ph="{...}" />
-            <marker date="1557997401163" expanded="true" signature="570:946" ph="{...}" />
-            <marker date="1557997401163" expanded="true" signature="962:3816" ph="{...}" />
-            <marker date="1557997401163" expanded="true" signature="1347:3479" ph="{...}" />
-            <marker date="1557997401163" expanded="true" signature="1480:2881" ph="{...}" />
-            <marker date="1557997401163" expanded="true" signature="2027:2876" ph="{...}" />
-            <marker date="1557997401163" expanded="true" signature="2389:2870" ph="{...}" />
-            <marker date="1557997401163" expanded="true" signature="2930:3475" ph="{...}" />
-            <marker date="1557997401163" expanded="true" signature="3100:3201" ph="{...}" />
-            <marker date="1557997401163" expanded="true" signature="3511:3812" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/GazeUI For Canvas/Scripts/UI/EyeRaycaster.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/PeterKoch/Gaze/Demo/CubeListener.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportArea.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -815,20 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreateNewMozarella.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <marker date="1558122739070" expanded="false" signature="6:78" ph="..." />
-            <marker date="1558122739070" expanded="true" signature="127:436" ph="{...}" />
-            <marker date="1558122739070" expanded="true" signature="246:355" ph="{...}" />
-            <marker date="1558122739070" expanded="true" signature="289:340" ph="{...}" />
-            <marker date="1558122739070" expanded="true" signature="413:434" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -869,6 +802,19 @@
             <marker date="1557152818418" expanded="true" signature="374:485" ph="{...}" />
             <marker date="1557152818418" expanded="true" signature="539:715" ph="{...}" />
             <marker date="1557152818418" expanded="true" signature="596:709" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreateNewMozarella.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1558122739070" expanded="true" signature="127:436" ph="{...}" />
+            <marker date="1558122739070" expanded="true" signature="246:355" ph="{...}" />
+            <marker date="1558122739070" expanded="true" signature="289:340" ph="{...}" />
+            <marker date="1558122739070" expanded="true" signature="413:434" ph="{...}" />
           </folding>
         </state>
       </provider>
