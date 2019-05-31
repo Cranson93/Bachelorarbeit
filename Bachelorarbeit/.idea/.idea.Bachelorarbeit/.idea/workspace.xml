@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="0da6ccbd-d5cf-443f-9709-2fb4f46a51aa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Bachelorarbeit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/ARSupermarket.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/EyeRaycaster.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EyeRaycaster.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +14,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeListener.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+              <folding>
+                <marker date="1558086182570" expanded="false" signature="6:44" ph="..." />
+                <marker date="1558086182570" expanded="true" signature="87:459" ph="{...}" />
+                <marker date="1558086182570" expanded="true" signature="164:337" ph="{...}" />
+                <marker date="1558086182570" expanded="true" signature="369:457" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -62,7 +81,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="1553" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,12 +90,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
@@ -133,11 +152,13 @@
       <workItem from="1557990481783" duration="10634000" />
       <workItem from="1558075509717" duration="10339000" />
       <workItem from="1558338378792" duration="57000" />
+      <workItem from="1558598428191" duration="1260000" />
+      <workItem from="1559291774825" duration="630000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38669000" />
+    <option name="totallyTimeSpent" value="40559000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -149,9 +170,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="1553" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14551422" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09310114" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -711,13 +732,57 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <marker date="1558099518717" expanded="false" signature="6:78" ph="..." />
+            <marker date="1558099518717" expanded="true" signature="124:564" ph="{...}" />
+            <marker date="1558099518717" expanded="true" signature="209:384" ph="{...}" />
+            <marker date="1558099518717" expanded="true" signature="420:558" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/Gaze_Control_Projoct_Gruppe_2/Gaze_Control_Projoct/Assets/SteamVR/InteractionSystem/Core/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+          <folding>
+            <marker date="1557152818418" expanded="false" signature="6:113" ph="..." />
+            <marker date="1557152818418" expanded="true" signature="162:722" ph="{...}" />
+            <marker date="1557152818418" expanded="true" signature="317:491" ph="{...}" />
+            <marker date="1557152818418" expanded="true" signature="374:485" ph="{...}" />
+            <marker date="1557152818418" expanded="true" signature="539:715" ph="{...}" />
+            <marker date="1557152818418" expanded="true" signature="596:709" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreateNewMozarella.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1558122739070" expanded="true" signature="127:436" ph="{...}" />
+            <marker date="1558122739070" expanded="true" signature="246:355" ph="{...}" />
+            <marker date="1558122739070" expanded="true" signature="289:340" ph="{...}" />
+            <marker date="1558122739070" expanded="true" signature="413:434" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/SteamVR/InteractionSystem/Teleport/Scripts/TeleportPoint.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="224" column="51" lean-forward="true" selection-start-line="224" selection-start-column="51" selection-end-line="224" selection-end-column="51" />
+        <state relative-caret-position="131">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
           <folding>
             <marker date="1558080914855" expanded="true" signature="0:225" ph="/* ======= Copyright (c) Valve Corporation, All rights reserved. =============== ... */" />
-            <marker date="1558080914855" expanded="true" signature="233:338" ph="..." />
+            <marker date="1558080914855" expanded="false" signature="233:338" ph="..." />
             <marker date="1558080914855" expanded="true" signature="383:9160" ph="{...}" />
             <marker date="1558080914855" expanded="true" signature="511:8308" ph="{...}" />
             <marker date="1558080914855" expanded="true" signature="546:593" ph="{...}" />
@@ -762,59 +827,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayListener.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <marker date="1558099518717" expanded="false" signature="6:78" ph="..." />
-            <marker date="1558099518717" expanded="true" signature="124:564" ph="{...}" />
-            <marker date="1558099518717" expanded="true" signature="209:384" ph="{...}" />
-            <marker date="1558099518717" expanded="true" signature="420:558" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/Gaze_Control_Projoct_Gruppe_2/Gaze_Control_Projoct/Assets/SteamVR/InteractionSystem/Core/Scripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CubeListener.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+          <caret line="5" column="45" lean-forward="true" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
           <folding>
             <marker date="1558086182570" expanded="false" signature="6:44" ph="..." />
             <marker date="1558086182570" expanded="true" signature="87:459" ph="{...}" />
             <marker date="1558086182570" expanded="true" signature="164:337" ph="{...}" />
             <marker date="1558086182570" expanded="true" signature="369:457" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/DisplayOnCollision.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding>
-            <marker date="1557152818418" expanded="false" signature="6:113" ph="..." />
-            <marker date="1557152818418" expanded="true" signature="162:722" ph="{...}" />
-            <marker date="1557152818418" expanded="true" signature="317:491" ph="{...}" />
-            <marker date="1557152818418" expanded="true" signature="374:485" ph="{...}" />
-            <marker date="1557152818418" expanded="true" signature="539:715" ph="{...}" />
-            <marker date="1557152818418" expanded="true" signature="596:709" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CreateNewMozarella.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-          <folding>
-            <marker date="1558122739070" expanded="true" signature="127:436" ph="{...}" />
-            <marker date="1558122739070" expanded="true" signature="246:355" ph="{...}" />
-            <marker date="1558122739070" expanded="true" signature="289:340" ph="{...}" />
-            <marker date="1558122739070" expanded="true" signature="413:434" ph="{...}" />
           </folding>
         </state>
       </provider>
